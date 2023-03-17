@@ -5,28 +5,28 @@ neueSubMenus = {
         functionName    = "h3_coding:radial:dpclothing"
     },
     ['general:geiselnehmen'] = {
-        title = "Geiselnehmen",
-        icon = "#geisel",
-        functionName = "h3_coding:radial:geisel"
+        title           = "Geiselnehmen",
+        icon            = "#geisel",
+        functionName    = "h3_coding:radial:geisel"
     },
     ['general:givekeys'] = {
-        title = "Autoschlüssel geben",
-        icon = "#givecarkeys",
-        functionName = "h3_coding:givecarkeys:keys"
+        title           = "Autoschlüssel geben",
+        icon            = "#givecarkeys",
+        functionName    = "h3_coding:givecarkeys:keys"
     },
     ['general:phone'] = {
-        title = "Handy",
-        icon = "#handy",
-        functionName = "roadphone:openphone"
+        title           = "Handy",
+        icon            = "#handy",
+        functionName    = "roadphone:openphone"
     },
     ['general:rechnung'] = {
-        title = "Rechnung",
-        icon = "#bills",
-        functionName = "esx_billing:showBilling"
+        title           = "Rechnung",
+        icon            = "#bills",
+        functionName    = "esx_billing:showBilling"
     },
     ['general:tragen'] = {
-        title = "Tragen",
-        icon = "#tragen",
-        functionName = "h3_coding:radial:tragen"
+        title           = "Tragen",
+        icon            = "#tragen",
+        functionName    = "h3_coding:radial:tragen"
     },
 }
