@@ -20,7 +20,7 @@ shared_scripts{
     "shared/subMenu.lua"
 }
 
-ui_page "html/index.html"
+ui_page "html/ui.html"
 
 files{
     "html/*.html",
