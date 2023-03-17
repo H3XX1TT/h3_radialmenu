@@ -24,7 +24,7 @@ Citizen.CreateThread(function()
             print("true")
             MenuShow = true
             local enableMenu = {}
-            for k, v in ipairs(rootMenuConfig) do
+            for k, v in ipairs(rootMenu) do
                 if v:enableMenu() then
                     local dataElements = {}
                     local hasSubMenus = false
